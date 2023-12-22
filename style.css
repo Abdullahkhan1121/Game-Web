@@ -1,0 +1,14 @@
+body{
+    background-color: dimgrey;
+}
+#hoe:hover{
+    transition: 1s;
+    font-size: large;
+}
+#ho:hover{
+    background-color: blue;
+    transition: 1s;
+    font-size: large;
+}
+
+  

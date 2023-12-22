@@ -1,0 +1,57 @@
+body{
+    background-image: url(./img/b3.jpg);
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#hoe:hover{
+    transition: 1s;
+    font-size: large;
+}
+#ho:hover{
+    background-color: blue;
+    transition: 1s;
+    font-size: large;
+}
+.btn{
+	width: 100%;
+	padding: 0.5rem 1rem;
+	background-color: blue;
+	color: #fff;
+	font-size: 1.1rem;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	transition: .3s;
+}
+.swiper {
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .swiper-slide {
+    background-position: center;
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+  }
+
+  .swiper-slide img{
+    height: 400px;
+  }
+
+
+  #pro{
+    margin-bottom: 50px;
+  }
+  #xy{
+    font-size: larger;
+    font-weight: lighter;
+    /* color: grey; */
+  }
